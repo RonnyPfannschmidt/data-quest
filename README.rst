@@ -4,7 +4,6 @@ Data Quest
 the quest here is managing data one owns and how it is distributed across devices one owns
 
 
-
 examples of data:
 
 
@@ -14,6 +13,7 @@ examples of data:
 * emails
 * messages
 * appointments
+* public and private keys
 
 
 examples of devices::
@@ -34,4 +34,4 @@ examples of devices::
   * storage media in general
 
 
-currently im unaware of solutions to manage sanely the pasaround of data between devices
+currently im unaware of solutions to manage sanely the passarge of data between devices
