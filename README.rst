@@ -1,8 +1,7 @@
 Data Quest
 ==========
 
-the quest here is managing data one owns and how it is distributed across devices one owns
-
+The quest here is obtaining the tools necessary for obtaining clarity about ones own data and managing it.
 
 examples of data:
 
